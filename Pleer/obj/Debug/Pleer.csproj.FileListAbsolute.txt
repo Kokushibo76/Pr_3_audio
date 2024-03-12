@@ -1,0 +1,5 @@
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln(2)\Pleer\Pleer\obj\Debug\Pleer.csproj.AssemblyReference.cache
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln(2)\Pleer\Pleer\obj\Debug\MainWindow.g.cs
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln(2)\Pleer\Pleer\obj\Debug\App.g.cs
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln(2)\Pleer\Pleer\obj\Debug\Pleer_MarkupCompile.cache
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln(2)\Pleer\Pleer\obj\Debug\Pleer_MarkupCompile.lref
